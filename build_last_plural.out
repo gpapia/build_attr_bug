@@ -1,0 +1,82 @@
+running egg_info
+creating src/build_attr_bug.egg-info
+writing src/build_attr_bug.egg-info/PKG-INFO
+writing dependency_links to src/build_attr_bug.egg-info/dependency_links.txt
+writing top-level names to src/build_attr_bug.egg-info/top_level.txt
+writing manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+reading manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+writing manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+running sdist
+running egg_info
+writing src/build_attr_bug.egg-info/PKG-INFO
+writing dependency_links to src/build_attr_bug.egg-info/dependency_links.txt
+writing top-level names to src/build_attr_bug.egg-info/top_level.txt
+reading manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+writing manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+running check
+warning: check: missing required meta-data: url
+
+creating build_attr_bug-0.1
+creating build_attr_bug-0.1/src
+creating build_attr_bug-0.1/src/bug
+creating build_attr_bug-0.1/src/build_attr_bug.egg-info
+copying files to build_attr_bug-0.1...
+copying README.md -> build_attr_bug-0.1
+copying pyproject.toml -> build_attr_bug-0.1
+copying setup.cfg -> build_attr_bug-0.1
+copying src/bug/__init__.py -> build_attr_bug-0.1/src/bug
+copying src/build_attr_bug.egg-info/PKG-INFO -> build_attr_bug-0.1/src/build_attr_bug.egg-info
+copying src/build_attr_bug.egg-info/SOURCES.txt -> build_attr_bug-0.1/src/build_attr_bug.egg-info
+copying src/build_attr_bug.egg-info/dependency_links.txt -> build_attr_bug-0.1/src/build_attr_bug.egg-info
+copying src/build_attr_bug.egg-info/top_level.txt -> build_attr_bug-0.1/src/build_attr_bug.egg-info
+Writing build_attr_bug-0.1/setup.cfg
+Creating tar archive
+removing 'build_attr_bug-0.1' (and everything under it)
+running egg_info
+writing src/build_attr_bug.egg-info/PKG-INFO
+writing dependency_links to src/build_attr_bug.egg-info/dependency_links.txt
+writing top-level names to src/build_attr_bug.egg-info/top_level.txt
+reading manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+writing manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build/lib
+creating build/lib/bug
+copying src/bug/__init__.py -> build/lib/bug
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_lib
+creating build/bdist.linux-x86_64
+creating build/bdist.linux-x86_64/wheel
+creating build/bdist.linux-x86_64/wheel/bug
+copying build/lib/bug/__init__.py -> build/bdist.linux-x86_64/wheel/bug
+running install_egg_info
+running egg_info
+writing src/build_attr_bug.egg-info/PKG-INFO
+writing dependency_links to src/build_attr_bug.egg-info/dependency_links.txt
+writing top-level names to src/build_attr_bug.egg-info/top_level.txt
+reading manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+writing manifest file 'src/build_attr_bug.egg-info/SOURCES.txt'
+Copying src/build_attr_bug.egg-info to build/bdist.linux-x86_64/wheel/build_attr_bug-0.1-py3.9.egg-info
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/build_attr_bug-0.1.dist-info/WHEEL
+creating '/home/gian/python/build_attr_bug/dist/tmp_3l5mffm/build_attr_bug-0.1-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+adding 'bug/__init__.py'
+adding 'build_attr_bug-0.1.dist-info/METADATA'
+adding 'build_attr_bug-0.1.dist-info/WHEEL'
+adding 'build_attr_bug-0.1.dist-info/top_level.txt'
+adding 'build_attr_bug-0.1.dist-info/RECORD'
+removing build/bdist.linux-x86_64/wheel
+* Creating venv isolated environment...
+* Installing packages in isolated environment... (setuptools>=42, wheel)
+* Getting dependencies for sdist...
+* Building sdist...
+* Building wheel from sdist
+* Creating venv isolated environment...
+* Installing packages in isolated environment... (setuptools>=42, wheel)
+* Getting dependencies for wheel...
+* Installing packages in isolated environment... (wheel)
+* Building wheel...
+Successfully built build_attr_bug-0.1.tar.gz and build_attr_bug-0.1-py3-none-any.whl

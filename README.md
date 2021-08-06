@@ -101,3 +101,10 @@ python -m build
 ~~~~~~~
 
 The output is in the ``build_0.4.0.out`` file.
+
+Resolution
+==========
+There is no bug, it's a typo error: in `setup.cfg` it's `packages =`
+(plural form) and not `package =` (singular form).
+
+The ouputs are in the `build_*_plural.out` files.
